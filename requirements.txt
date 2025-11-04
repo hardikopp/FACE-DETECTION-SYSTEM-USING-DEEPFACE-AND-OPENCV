@@ -1,0 +1,10 @@
+flask
+opencv-python
+opencv-python-headless
+deepface
+numpy
+scipy
+tensorflow
+tf-keras
+Pillow
+urllib3

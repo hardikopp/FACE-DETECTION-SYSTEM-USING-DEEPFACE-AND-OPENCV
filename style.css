@@ -1,0 +1,28 @@
+body.dark {
+  background: radial-gradient(circle at top left, #0f2027, #203a43, #2c5364);
+  color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.card.glass {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 18px;
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+}
+
+input.form-control {
+  background: rgba(255,255,255,0.06);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.btn-primary, .btn-success, .btn-warning {
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+img { max-width: 100%; display:block; margin: 0 auto; }
